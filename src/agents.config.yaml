@@ -1,0 +1,4 @@
+# Global configuration for all agents in this function app.
+
+model: gpt-5.4
+timeout: 900

@@ -1,0 +1,10 @@
+.azure
+
+local.settings.json
+
+# Azurite
+__blobstorage__/
+__queuestorage__/
+__azurite_db**
+
+__pycache__/
